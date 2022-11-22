@@ -7,8 +7,10 @@ Detectar a presença de armas (pistola) em um determinado ambiente, gerar evidê
 
 # Libs
 
-OpenCV, Numpy, Requests, subprocess.
-
+OpenCV 4.6.0
+Numpy >= 1.19.3
+imutils 0.5.4
+Requests 2.28.1
 
 O Projeto possui 5 principais funções: FaceRecon, Gun Recon, Face Log, Gun Log, GunAlert via Telegram Bot. 
 
