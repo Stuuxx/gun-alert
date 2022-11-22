@@ -20,7 +20,7 @@ count = 0
 
 # Telegram Bot Requests
 token = "5983326960:AAHhQ1xnLTHyn6qjVz0rnX1b7H0n7pUrIeg"
-chat_id = "-778229028"
+chat_id = "-1001810847383"
 
 def send_msg(text):
    url_req = "https://api.telegram.org/bot" + token + "/sendMessage" + "?chat_id=" + chat_id + "&text=" + text 
