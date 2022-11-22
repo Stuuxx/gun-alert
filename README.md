@@ -28,3 +28,6 @@ Foi realizado o treinamento de reconhecimento da pistola utilizando 2800 imagens
 
 # Telegram com o Bot:
 https://t.me/gunalert
+
+# Video PoC
+https://youtu.be/ECQPaJRyCWA
