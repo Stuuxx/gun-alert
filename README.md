@@ -25,3 +25,6 @@ O Projeto possui 5 principais funções: FaceRecon, Gun Recon, Face Log, Gun Log
 
 # Treinamento
 Foi realizado o treinamento de reconhecimento da pistola utilizando 2800 imagens positivas e negativas + Utilizamos o GUI Cascade Trainer com 10 estágios.
+
+# Telegram com o Bot:
+https://t.me/gunalert
